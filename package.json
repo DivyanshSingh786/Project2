@@ -2,18 +2,13 @@
   "name": "project3",
   "version": "1.0.0",
   "description": "",
-  "main": "index.html",
+  "main": "script.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "react-scripts build"
+
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/DivyanshSingh786/Project2.git"
-  },
+  "keywords": [],
   "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/DivyanshSingh786/Project2/issues"
-  },
-  "homepage": "https://github.com/DivyanshSingh786/Project2#readme"
+  "license": "ISC"
 }
