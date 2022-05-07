@@ -1,0 +1,19 @@
+{
+  "name": "project3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DivyanshSingh786/Project2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DivyanshSingh786/Project2/issues"
+  },
+  "homepage": "https://github.com/DivyanshSingh786/Project2#readme"
+}
